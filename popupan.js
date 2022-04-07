@@ -1,6 +1,4 @@
-'https://bit.ly/2r37SFT';
-
-	var url_popup = 
+	var url_popup ="https://www.facebook.com/Thuankimoanhgroup" 
       //<![CDATA[
 	  // var url_ppp = 'https://www.facebook.com/Thuankimoanhgroup/?ref=pages_you_manage';
       function addEvent(obj, eventName, func){
